@@ -3,3 +3,8 @@ class Pessoa:
         self.nome = nome
         self.idade = idade
         self.email = email
+
+class Cliente(Pessoa):
+
+
+class Vendedor(Pessoa):
