@@ -1,0 +1,2 @@
+class VendaView:
+    pass
